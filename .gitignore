@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/macos,python,jupyternotebooks
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,python,jupyternotebooks
+# Created by https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks,python
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,jupyternotebooks,python
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
@@ -217,4 +217,4 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,python,jupyternotebooks
+# End of https://www.toptal.com/developers/gitignore/api/macos,jupyternotebooks,python
