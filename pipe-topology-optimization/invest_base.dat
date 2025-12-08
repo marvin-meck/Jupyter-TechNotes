@@ -1,0 +1,4 @@
+load "./data/links.csv": IndexLinks=[head,tail] length_link='length [m]';
+load "./data/nodes.csv": IndexNodes=[node] head_lb='min. head [m]' head_ub='max. head [m]';
+load "./data/head_losses_base.csv": [head,tail,diameter] head_losses='head losses [m]';
+load "./data/cost_base.csv": IndexDiameters=['DN class'] cost_per_unit_length='cost [EUR/m]';

@@ -6,3 +6,4 @@ Covering areas like engineering optimization, operations research, data analysis
 ## List of TechNotes:
 
 * [Minimum Volume Truss Topology Optimization](truss-optimization/minimum-volume-problem.ipynb) 
+* [Design of Branching Networks](pipe-topology-optimization/branching-networks.ipynb)
