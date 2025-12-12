@@ -7,3 +7,4 @@ Covering areas like engineering optimization, operations research, data analysis
 
 * [Minimum Volume Truss Topology Optimization](truss-optimization/minimum-volume-problem.ipynb) 
 * [Design of Branching Networks](pipe-topology-optimization/branching-networks.ipynb)
+* [Basic Branch-and-Bound Algorithm based on `Pyomo`](branch-and-bound/branch-and-bound.ipynb)
