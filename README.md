@@ -11,7 +11,7 @@ Covering areas like engineering optimization, operations research, data analysis
 
 ## Planned topics
 
-1. Ordinary least squares in log-space
+1. Ordinary least squares in log-space ([see feature branch](https://github.com/marvin-meck/Jupyter-TechNotes/tree/feature/ols-log-space))
 2. McCormick envelopes
 3. Outer approximation
 4. Phase equilibria via direct Gibbs energy minimization
